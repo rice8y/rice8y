@@ -1,6 +1,8 @@
 ![info](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rice8y&theme=github)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rice8y&langs_count=50&layout=compact&card_width=700)
+-->
 
 <!--
 <a href="https://trackgit.com">
