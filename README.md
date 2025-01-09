@@ -12,7 +12,6 @@
 - [NLP 100 Exercise](https://nlp100.vercel.app/)
 - [競技プログラミングの鉄則 for Typsetting Systems](https://tex-pro.onrender.com/)
 - [Sapi](https://github.com/rice8y/sapi)
-- [ごみカレンダーbot](https://line.me/R/ti/p/@756viccf?from=page&accountId=756viccf)
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <p></p><p></p>
