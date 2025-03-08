@@ -10,6 +10,7 @@
 - [CeTZuron](https://github.com/rice8y/cetzuron)
 - [CY3d](https://github.com/rice8y/CY3d)
 - [FracTeX](https://github.com/rice8y/FracTeX)
+- [YauScape.jl](https://github.com/rice8y/YauScape.jl)
 - [Hello, World!](https://rice8y.github.io/hello/)
 - [NLP 100 Exercise](https://nlp100.vercel.app/)
 - [競技プログラミングの鉄則 for Typsetting Systems](https://tex-pro.onrender.com/)
