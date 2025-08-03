@@ -23,4 +23,4 @@ Currently, I am conducting research in the **Natural Language Processing Laborat
 
 ## Contact
 
-- Email: yoneyama@ai.cs.ehime-u.ac.jp
+- <p>Email: <span>&#121;&#111;&#110;&#101;&#121;&#097;&#109;&#097;&#064;&#097;&#105;&#046;&#099;&#115;&#046;&#101;&#104;&#105;&#109;&#101;&#045;&#117;&#046;&#097;&#099;&#046;&#106;&#112;</span></p>
